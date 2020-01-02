@@ -1,2 +1,2 @@
 # TopoNet
-Topology-Preserving Deep Image Segmentation
+Reproducing the paper titled "Topology-Preserving Deep Image Segmentation"
